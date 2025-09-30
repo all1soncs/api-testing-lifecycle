@@ -2,6 +2,8 @@
 
 Este repositório documenta um **processo estruturado para planejamento, desenvolvimento e manutenção de testes de APIs**. O objetivo é fornecer uma visão clara das fases envolvidas, desde a definição do escopo até a melhoria contínua.
 
+Arquivo Excalidraw ![Fluxograma do ciclo de testes](.Teste API Map-2025.excalidraw)
+
 ![Fluxograma do ciclo de testes](./fluxograma.png)
 
 ## 📌 Estrutura do Processo
